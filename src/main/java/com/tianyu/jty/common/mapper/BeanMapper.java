@@ -14,7 +14,7 @@ import org.dozer.DozerBeanMapper;
 import com.google.common.collect.Lists;
 
 /**
- * 简单封装Dozer,实现深度转换Bean<->Bean的Mapper.    12343124实现:
+ * 简单封装Dozer,实现深度转换Bean<->Bean的Mapper.    12343124实现:yyyyyyyy
  * 
  * 1. 持有Mapper的单例.
  * 2. 返回值类型转换.
